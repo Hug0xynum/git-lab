@@ -1,1 +1,4 @@
 git flow feature start feature -1
+[feature/feature-1 a94e865] first commit on feature-1
+ 1 file changed, 1 insertion(+)
+ create mode 100644 second-commit.txt
